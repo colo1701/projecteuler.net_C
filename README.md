@@ -5,4 +5,5 @@
 </p>
 
 0001 - Write a C program to print your name, date of birth and mobile number.  
-0002 - Write a C program to print a block F using hash (#), where the F has a height of six characters and width of five and four characters. And also to print a big 'C'.
+0002 - Write a C program to print a block F using hash (#), where the F has a height of six characters and width of five and four characters.  
+       And also to print a big 'C'.
