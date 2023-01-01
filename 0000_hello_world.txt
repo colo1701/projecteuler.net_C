@@ -1,1 +1,1 @@
-Build a program that prints the string "Hello World!".
+Write a program that prints the string "Hello World!".
