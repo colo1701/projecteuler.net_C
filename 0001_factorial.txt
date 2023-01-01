@@ -1,0 +1,1 @@
+Build a program that computes and prints the factorial of a pre-defined integer 'input'.
