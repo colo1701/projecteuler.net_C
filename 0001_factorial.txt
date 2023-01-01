@@ -1,1 +1,9 @@
-Write a program that computes and prints the factorial of a pre-defined integer 'input'.
+################################################################################
+#                                                                              #
+#                            C programming Exercise                            #
+#                                     0001                                     #
+#                                                                              #
+################################################################################
+
+Write a program that computes and prints the factorial of a pre-defined integer 
+'input'.
