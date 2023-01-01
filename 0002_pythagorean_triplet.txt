@@ -1,4 +1,12 @@
-Write a program that finds three values a, b & c which meet the following conditions:
+################################################################################
+#                                                                              #
+#                            C programming Exercise                            #
+#                                     0002                                     #
+#                                                                              #
+################################################################################
+
+Write a program that finds three values a, b & c which meet the following 
+conditions:
 
 a < b < c
 a² + b² = c²
