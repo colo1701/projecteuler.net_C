@@ -5,6 +5,7 @@
 </p>
 
 <ol>
-<li>Write a C program to print your name, date of birth and mobile number. </li>
-<li>Write a C program to print a block 'F' using hash (#), where the F has a height of five characters and width of five and four characters. And also to print a big 'C'. </li>
+<li>Write a C program to print your name, date of birth and mobile number.</li>
+<li>Write a C program to print a block 'F' using hash (#), where the F has a height of five characters and width of five and four characters. And also to print a big 'C'.</li>
+<li>Write a program that computes the sum of all multiples of 3 and 5 below 1000.</li>
 </ol> 
