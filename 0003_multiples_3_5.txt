@@ -1,9 +1,0 @@
-################################################################################
-#                                                                              #
-#                            C programming Exercise                            #
-#                                     0003                                     #
-#                                                                              #
-################################################################################
-
-This is the first challenge from projecteuler.net.
-Write a program that computes the sum of all multiples of 3 and 5 below 1000.
