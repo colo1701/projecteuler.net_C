@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-#define int goal = 600851475143;
+#define GOAL 600851475143;
